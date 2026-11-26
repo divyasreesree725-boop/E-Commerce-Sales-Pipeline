@@ -2,7 +2,7 @@
 
 An end-to-end data engineering project that ingests daily e-commerce order files, cleans and validates them, and produces business-ready sales analytics and dashboards using **Medallion Architecture (Bronze → Silver → Gold)** on **Databricks**.
 
-![Architecture](Architecture.png)
+![Architecture](Architecture.jpeg)
 
 ---
 
