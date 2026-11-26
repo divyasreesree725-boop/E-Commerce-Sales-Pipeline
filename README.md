@@ -145,7 +145,7 @@ Customer name is allowed to be empty according to the project specification.
 ## Dashboards
 
 ### Executive Overview
-![Executive Overview](Executive Overview%200.png)
+[Executive Overview]
 
 ### Sales Analysis
 ![Sales Analysis](Sales%20Analysis.png)
