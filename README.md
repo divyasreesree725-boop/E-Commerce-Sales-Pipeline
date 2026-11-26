@@ -145,7 +145,7 @@ Customer name is allowed to be empty according to the project specification.
 ## Dashboards
 
 ### Executive Overview
-[Executive Overview.png]
+![Executive Overview](Executive%20Overview.png)
 
 ### Sales Analysis
 ![Sales Analysis](Sales%20Analysis.png)
@@ -188,6 +188,6 @@ Customer name is allowed to be empty according to the project specification.
 
 ## Author
 
-**kale.Divya sreee**
+**kale.Divya sree**
 GitHub: https://github.com/divyasreesree725-boop
-LinkedIn:https://www.linkedin.com/in/divya-sree-kale-692673331
+LinkedIn: https://www.linkedin.com/in/divya-sree-kale-692673331
